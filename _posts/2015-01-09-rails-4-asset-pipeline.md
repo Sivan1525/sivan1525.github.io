@@ -117,13 +117,3 @@ background: asset_url('background-image.png')
   <div class="highlight">
   </div>
 </div>
-
-<div class="pvc_clear">
-</div>
-
-<p id="pvc_stats_80" class="pvc_stats " element-id="80">
-  <img src="https://railsnuggets.com/wp-content/plugins/page-views-count/ajax-loader.gif" border=0 />
-</p>
-
-<div class="pvc_clear">
-</div>

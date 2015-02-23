@@ -30,13 +30,3 @@ So this is my journey so far , will share more along the cruise..
 &nbsp;
 
 &nbsp; 
-
-<div class="pvc_clear">
-</div>
-
-<p id="pvc_stats_23" class="pvc_stats " element-id="23">
-  <img src="https://railsnuggets.com/wp-content/plugins/page-views-count/ajax-loader.gif" border=0 />
-</p>
-
-<div class="pvc_clear">
-</div>

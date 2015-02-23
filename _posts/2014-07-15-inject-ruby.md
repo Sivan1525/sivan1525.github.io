@@ -46,14 +46,5 @@ split(" ").inject(Hash.new(0)) { |total, e| total[e] += 1 ;total}
 
 &nbsp; 
 
-<div class="pvc_clear">
-</div>
-
-<p id="pvc_stats_35" class="pvc_stats " element-id="35">
-  <img src="https://railsnuggets.com/wp-content/plugins/page-views-count/ajax-loader.gif" border=0 />
-</p>
-
-<div class="pvc_clear">
-</div>
 
  [1]: http://ruby-doc.org/core-1.9.3/Enumerable.html#method-i-reduce "ruby-doc"

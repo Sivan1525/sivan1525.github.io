@@ -41,12 +41,4 @@ Further details can be found here:
 
 http://apidock.com/ruby/String/rjust and http://apidock.com/ruby/String/ljust . 
 
-<div class="pvc_clear">
-</div>
 
-<p id="pvc_stats_114" class="pvc_stats " element-id="114">
-  <img src="https://railsnuggets.com/wp-content/plugins/page-views-count/ajax-loader.gif" border=0 />
-</p>
-
-<div class="pvc_clear">
-</div>

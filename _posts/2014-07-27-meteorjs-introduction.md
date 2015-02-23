@@ -21,15 +21,6 @@ I think its the **NEXT BIG THING **in the web technology . I will definitely kee
 
 &nbsp; 
 
-<div class="pvc_clear">
-</div>
-
-<p id="pvc_stats_45" class="pvc_stats " element-id="45">
-  <img src="https://railsnuggets.com/wp-content/plugins/page-views-count/ajax-loader.gif" border=0 />
-</p>
-
-<div class="pvc_clear">
-</div>
 
  [1]: http://railscasts.com "railscasts"
  [2]: http://atmospherejs
