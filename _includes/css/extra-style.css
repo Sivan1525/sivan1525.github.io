@@ -1,6 +1,7 @@
 .avatar-image {
   border: 5px solid #ffffff;
   border-radius: 160px;
+  height: 155px;
 }
 .white-link {
   color: #cf6363 !important;
