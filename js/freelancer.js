@@ -40,7 +40,7 @@ $(document).ready(function(){
     $(window).scroll(function() {
       if ($('.page-scroll.active').length > 0) {
         $(".navbar-default").css('background-color',"rgba(255, 255, 255, 0.97)");
-        $('.navbar-brand').html('<\\°_°/>');
+        $('.navbar-brand').html('<\\‘_’/>');
       }
       else
         $(".navbar-default").css('background-color',"transparent");
