@@ -12,3 +12,7 @@
   background-color: transparent;
   border-bottom: 1px solid #37a1a9;
 }
+
+.navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a{
+  color: #37a1a9;
+}
