@@ -81,7 +81,7 @@ hr.star-primary:after {
 }
 
 header {
-    background-image: url("http://static.tumblr.com/e708b5de8e5f6fa96f579816d17ddd8e/iw5kyuu/Lwbn9vi39/tumblr_static_1wxyr0khk0lc08c4woso404go.jpg");
+    background-image: url("/img/header-image.png");
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
