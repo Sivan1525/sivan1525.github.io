@@ -26,9 +26,9 @@ social:
   - title: twitter
     url: http://twitter.com/sivan_dude
   - title: facebook
-    url: 
+    url: https://facebook.com/sivanand.kheti
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: http://stackoverflow.com/users/1542202/sivan
   # - title: skype
   #   url: http://bitbucket.org/jekyll
   - title: github
@@ -36,8 +36,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Brijeswari Annexure
-  - line: Indore, India
+  - line: Bangali Square
+  - line: Indore, India - 452001
 
 # Credits content
 # credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
