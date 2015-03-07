@@ -16,3 +16,7 @@
 .navbar-default .navbar-brand, .navbar-default .navbar-nav > li > a{
   color: #37a1a9;
 }
+
+#portfolio .portfolio-item .portfolio-link {
+  box-shadow: 10px 10px 5px #888888;
+}
