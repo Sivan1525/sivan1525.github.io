@@ -6,6 +6,6 @@ img: boxconcept.png
 alt: boxconcept
 project-date: February 2013
 category: Web Development
-description: BoxConcept is an easy and intelligent solution for storing or transporting your belongings. You calculate your storage or relocation volume online - our modular approach allows for full cost control by enabling our customers to combine personal contributions with our professional services. No hassle with driving bulky rental trucks, no repetitive loading and re-loading, no re-packing and carrying your belongings between a car and a warehouse. Our customer representatives can help you design individual solutions that meet your needs
+description: BoxConcept is an easy and intelligent solution for storing or transporting your belongings. You calculate your storage or relocation volume online - our modular approach allows for full cost control by enabling our customers to combine personal contributions with our professional services. No hassle with driving bulky rental trucks, no repetitive loading and re-loading, no re-packing and carrying your belongings between a car and a warehouse.
 
 ---
