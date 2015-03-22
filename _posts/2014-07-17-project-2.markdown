@@ -7,6 +7,6 @@ alt: algadon
 project-date: April 2014
 client: Chris
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: Algadon is a fantasy role playing game set in the medieval land of Algadon. The free online (web browser-based) game allows players to explore the land, perform quests, battle monsters and other ferocious beasts, fight other players, place a bounty on another player, and attempt elite missions. As a dragon, orc, elf, dwarf, mage, mystic warrior, elemental forest princess, archer, sorcerer, sorceress, assassin, barbarian, realm defender, knight, or merchant, you can buy weapons, armor, food, and potions to help in advancing levels, training to become stronger, and performing quests. Players can also join a clan with friends (optional), send private messages to one another, or post public messages on another player's profile. As you advance through the game, additional quests, weapons, armor, and more become available to you. Come journey within the mystical land of Algadon! 
 
 ---
